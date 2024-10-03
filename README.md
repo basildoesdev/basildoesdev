@@ -24,7 +24,7 @@ Hey, I’m Basil! I’m a frontend developer with a love for creating clean, res
 ## 🌟 **Projects**
 
 ### Rugby Team Analyzer  
-- Web tool for analyzing and optimizing rugby team configurations with player data and advanced sorting features.
+- Third party web tool for analyzing and optimizing rugby team configurations with player data and advanced sorting features.
 
 ### JPEG to PDF Converter  
 - Built a clean, simple converter to turn JPEGs into PDFs.
