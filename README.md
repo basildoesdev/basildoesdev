@@ -1,6 +1,6 @@
 # Basildoesdev
 
-**Frontend Developer** | [Email Address] | [LinkedIn Profile] | 
+**Frontend Developer** 
 
 ---
 
