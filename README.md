@@ -24,9 +24,11 @@ Hey, I’m Basil! I’m a frontend developer with a love for creating clean, res
 ## 🌟 **Projects**
 
 ### [Rugby Team Analyzer](https://github.com/basildoesdev/bor-team-analyzer)  
+[APP->](https://borteamanalyser.netlify.app/)
 - Third party web tool for analyzing and optimizing rugby team configurations with player data and advanced sorting features.
 
-### JPEG to PDF Converter  
+### [JPEG to PDF Converter](https://github.com/basildoesdev/jpeg-to-pdf)
+[APP->](https://jpegtopdf.netlify.app/)
 - Built a clean, simple converter to turn JPEGs into PDFs.
 
 ---
