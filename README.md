@@ -23,7 +23,7 @@ Hey, I’m Basil! I’m a frontend developer with a love for creating clean, res
 
 ## 🌟 **Projects**
 
-### Rugby Team Analyzer  
+### [Rugby Team Analyzer](https://github.com/basildoesdev/bor-team-analyzer)  
 - Third party web tool for analyzing and optimizing rugby team configurations with player data and advanced sorting features.
 
 ### JPEG to PDF Converter  
