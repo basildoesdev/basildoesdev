@@ -33,13 +33,4 @@ Hey, I’m Basil! I’m a frontend developer with a love for creating clean, res
 
 ---
 
-## 🎯 **Interests**
 
-- Formula 1, Cooking, Game Development, AI-Driven Systems
-
----
-
-<!---
-basildoesdev/basildoesdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
