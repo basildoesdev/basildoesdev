@@ -4,23 +4,6 @@
 
 ---
 
-## 📝 **About Me**
-
-Hey, I’m Basil! I’m a frontend developer with a love for creating clean, responsive web apps and exploring new tech trends like AI-driven development. I work with HTML, CSS, JavaScript, and a bit of backend magic with MongoDB and Node.js. Lately, I’ve been diving into serverless architecture and building CRUD applications with MongoDB and Netlify. I also have a strong background in graphic and web design.
-
----
-
-## 🛠 **Skills**
-
-- **Frontend**: HTML, CSS, JavaScript, Single Page Applications  
-- **APIs**: Fetch API, RESTful services  
-- **Backend**: Node.js, MongoDB  
-- **Dev Tools**: Git, GitHub, Netlify  
-- **Design**: Adobe Photoshop, Illustrator  
-- **Other Interests**: AI-driven development, automation, problem-solving
-
----
-
 ## 🌟 **Projects**
 
 ### [Rugby Team Analyzer](https://github.com/basildoesdev/bor-team-analyzer)  
@@ -32,5 +15,7 @@ Hey, I’m Basil! I’m a frontend developer with a love for creating clean, res
 - Built a clean, simple converter to turn JPEGs into PDFs.
 
 ---
+
+![KATZ]([https://link-to-your-gif.gif](https://media.giphy.com/media/O3A3C7vGBqRnq/giphy.gif?cid=790b7611dpcnslr1krbp4p7u3zkyn3szaqzathb8byoor7w9&ep=v1_gifs_search&rid=giphy.gif&ct=g))
 
 
