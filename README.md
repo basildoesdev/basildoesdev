@@ -16,6 +16,6 @@
 
 ---
 
-![KATZ]([https://link-to-your-gif.gif](https://media.giphy.com/media/O3A3C7vGBqRnq/giphy.gif?cid=790b7611dpcnslr1krbp4p7u3zkyn3szaqzathb8byoor7w9&ep=v1_gifs_search&rid=giphy.gif&ct=g))
+![KATZ](https://media.giphy.com/media/O3A3C7vGBqRnq/giphy.gif?cid=790b7611dpcnslr1krbp4p7u3zkyn3szaqzathb8byoor7w9&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
 
