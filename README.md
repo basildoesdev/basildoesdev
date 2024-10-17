@@ -6,8 +6,8 @@
 
 ## 🌟 **Projects**
 
-### [Rugby Team Analyzer](https://github.com/basildoesdev/bor-team-analyzer)  
-[APP->](https://borteamanalyser.netlify.app/)
+### [Rugby Team Analyzer](https://github.com/basildoesdev/bor-analyser)
+[APP->](https://boranalyser.netlify.app/)
 - Third party web tool for analyzing and optimizing rugby team configurations with player data and advanced sorting features.
 
 ---
